@@ -1,0 +1,21 @@
+<svg height="118pt" viewBox="0.00 0.00 171.00 118.00" width="171pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g class="graph" id="graph0" transform="scale(1 1) rotate(0) translate(4 114)">
+<title>G</title>
+<polygon fill="white" points="-4,4 -4,-114 167,-114 167,4 -4,4" stroke="none"/>
+<!-- 140248509856656 -->
+<g class="node" id="node1"><title>140248509856656</title>
+<polygon fill="none" points="0,-73.5 0,-109.5 163,-109.5 163,-73.5 0,-73.5" stroke="black"/>
+<text font-family="Times,serif" font-size="14.00" text-anchor="middle" x="81.5" y="-87.8">dense_input_1: InputLayer</text>
+</g>
+<!-- 140248509854928 -->
+<g class="node" id="node2"><title>140248509854928</title>
+<polygon fill="none" points="30.5,-0.5 30.5,-36.5 132.5,-36.5 132.5,-0.5 30.5,-0.5" stroke="black"/>
+<text font-family="Times,serif" font-size="14.00" text-anchor="middle" x="81.5" y="-14.8">dense_1: Dense</text>
+</g>
+<!-- 140248509856656&#45;&gt;140248509854928 -->
+<g class="edge" id="edge1"><title>140248509856656-&gt;140248509854928</title>
+<path d="M81.5,-73.3129C81.5,-65.2895 81.5,-55.5475 81.5,-46.5691" fill="none" stroke="black"/>
+<polygon fill="black" points="85.0001,-46.5288 81.5,-36.5288 78.0001,-46.5289 85.0001,-46.5288" stroke="black"/>
+</g>
+</g>
+</svg>
